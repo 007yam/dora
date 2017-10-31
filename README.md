@@ -8,7 +8,7 @@ The development team uses [Swagger](http://swagger.io/) for documenting the API.
 NOTE: At this time there is not a publicly available link to the documentation, a link will be provided as soon as one is available.
 
 Dora does not use any default index or document type. Its URL has the following format: `/dora/{index}/{type}/_search`.
-For example `/dora/facilities/facility/_search` or `/dora/people/person/_search`.
+For example: `/dora/facilities/facility/_search` or `/dora/people/person/_search`.
 
 ## Configuration
 
